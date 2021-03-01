@@ -1,0 +1,28 @@
+{
+  "name": "discord-bot-urss",
+  "version": "1.0.0",
+  "description": "Discord Bot URSS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatOrlowski/discord-bot-urss.git"
+  },
+  "keywords": [
+    "discord-bot",
+    "discord",
+    "krecik-urss"
+  ],
+  "author": "Mateusz Orłowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MatOrlowski/discord-bot-urss/issues"
+  },
+  "homepage": "https://github.com/MatOrlowski/discord-bot-urss#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
