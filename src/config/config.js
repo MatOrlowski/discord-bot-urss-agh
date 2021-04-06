@@ -1,5 +1,5 @@
 module.exports = {
-  token: 'ODA5NTIxMzI2Mjg0NjAzMzky.YCWTfA.oOXz-fULHxpYq5bhaRFGjvwx3MQ', //moduł zbiera token
+  token: 'ODA5NTIxMzI2Mjg0NjAzMzky.YCWTfA.oOXz-fULHxpYq5bhaRFGjvwx3MQ',
   prefix: '!',
   guildRoles: {
     Cyfryzacja: { id: '808429684148535306' },
