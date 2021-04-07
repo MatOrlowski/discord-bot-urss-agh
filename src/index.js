@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const { token } = require('./config/config');
+const { token } = require('./config/config.js');
 const commandHandler = require('./handlers/command.handler');
 
 const client = new Discord.Client();
@@ -12,7 +12,7 @@ client.on('ready', () => {
   console.log(`Zalogowano jako ${client.user.tag}`);
 });
 
-client.login(token);
+client.login(process.env.token);
 
 //Error handler - omitting crushes
 client.on('debug', () => {});
