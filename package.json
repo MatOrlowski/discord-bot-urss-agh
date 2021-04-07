@@ -4,13 +4,13 @@
   "description": "Discord Bot URSS",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "node src/index.js",
+    "start": "node index.js",
+    "dev": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MatOrlowski/discord-bot-urss.git"
+    "url": "git+https://github.com/MatOrlowski/discord-bot-urss-agh.git"
   },
   "keywords": [
     "discord-bot",
@@ -20,9 +20,9 @@
   "author": "Mateusz Orłowski",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MatOrlowski/discord-bot-urss/issues"
+    "url": "https://github.com/MatOrlowski/discord-bot-urss-agh/issues"
   },
-  "homepage": "https://github.com/MatOrlowski/discord-bot-urss#readme",
+  "homepage": "https://github.com/MatOrlowski/discord-bot-urss-agh#readme",
   "dependencies": {
     "discord.js": "^12.5.1"
   }
