@@ -1,5 +1,5 @@
 const Discord = require('discord.js');
-const { token } = require('./config/config.js');
+//const { token } = require('./config/config.js');
 const commandHandler = require('./handlers/command.handler');
 
 const client = new Discord.Client();
